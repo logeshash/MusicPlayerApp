@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
   logo: {
     height: 70,
     width: 70,
-    marginTop: 120,
+    marginTop: 90,
     alignItems: 'baseline',
   },
   btn: {
@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
     color: '#000',
     fontSize: 15,
     fontFamily: 'verdana',
-    marginTop: 30,
+    marginTop: 15,
     textDecorationLine: 'underline',
   },
   btnLogin: {
@@ -218,7 +218,7 @@ const styles = StyleSheet.create({
   textSocial: {
     fontSize: 15,
     fontFamily: 'verdana',
-    marginTop: 40,
+    marginTop: 10,
     marginBottom: 15
   }
 });
